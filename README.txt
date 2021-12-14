@@ -1,5 +1,7 @@
-1.	Users starts program
-2.	User enters all the customer info
-3.	Click when done entering the names of raffle
-4.	Click a button that allows the user to begin the shuffle
-Display the winner of the raffle
+Users starts program
+User enters all the customer info
+User clicks enter and name is put into box
+User can then choose to enter more names
+User then clicks the All Contestants entered button
+On the new window clik run 
+Result of the winner will be displayed on the screen
